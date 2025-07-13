@@ -1,0 +1,512 @@
+{
+  "agglomerative": {
+    "0": {
+      "cluster_id": 0,
+      "label": "Cluster 0: city_retailer_mumbai",
+      "keywords": [
+        "city",
+        "retailer",
+        "mumbai",
+        "retailer pune",
+        "distributor mumbai"
+      ],
+      "tfidf_keywords": [
+        "city",
+        "retailer",
+        "mumbai"
+      ],
+      "keybert_keywords": [
+        "retailer pune",
+        "distributor mumbai",
+        "nearby store"
+      ],
+      "yake_keywords": [
+        "showroom delhi state",
+        "delhi state distributor",
+        "state distributor mumbai"
+      ],
+      "sample_queries": [
+        "showroom delhi state",
+        "distributor mumbai city",
+        "retailer pune city"
+      ],
+      "cluster_size": 5
+    },
+    "1": {
+      "cluster_id": 1,
+      "label": "Cluster 1: foam_tell_ergonomic",
+      "keywords": [
+        "foam",
+        "tell",
+        "ergonomic",
+        "foam ergonomic",
+        "foam orthopedic"
+      ],
+      "tfidf_keywords": [
+        "foam",
+        "tell",
+        "ergonomic"
+      ],
+      "keybert_keywords": [
+        "foam ergonomic",
+        "foam orthopedic",
+        "feature foam"
+      ],
+      "yake_keywords": [
+        "key feature foam",
+        "orthopedic key feature",
+        "visit foam showroom"
+      ],
+      "sample_queries": [
+        "key feature foam orthopedic",
+        "tell foam orthopedic",
+        "key feature foam ergonomic"
+      ],
+      "cluster_size": 5
+    },
+    "2": {
+      "cluster_id": 2,
+      "label": "Cluster 2: trial_night_period",
+      "keywords": [
+        "trial",
+        "night",
+        "period",
+        "100 night",
+        "free night"
+      ],
+      "tfidf_keywords": [
+        "trial",
+        "night",
+        "period"
+      ],
+      "keybert_keywords": [
+        "100 night",
+        "free night",
+        "trial period"
+      ],
+      "yake_keywords": [
+        "night trial period",
+        "trial period work",
+        "period version give"
+      ],
+      "sample_queries": [
+        "100 night trial period work",
+        "100 night trial period",
+        "get free trial period"
+      ],
+      "cluster_size": 6
+    },
+    "3": {
+      "cluster_id": 3,
+      "label": "Cluster 3: period_warranty_long",
+      "keywords": [
+        "period",
+        "warranty",
+        "long",
+        "warranty period",
+        "know warranty"
+      ],
+      "tfidf_keywords": [
+        "period",
+        "warranty",
+        "long"
+      ],
+      "keybert_keywords": [
+        "warranty period",
+        "know warranty",
+        "share warranty"
+      ],
+      "yake_keywords": [
+        "cover included warranty",
+        "warranty period detail",
+        "period cover included"
+      ],
+      "sample_queries": [
+        "warranty period period",
+        "cover included warranty period",
+        "long warranty period"
+      ],
+      "cluster_size": 6
+    },
+    "4": {
+      "cluster_id": 4,
+      "label": "Cluster 4: pincode_deliver_pin",
+      "keywords": [
+        "pincode",
+        "deliver",
+        "pin",
+        "deliver pincode",
+        "pin code"
+      ],
+      "tfidf_keywords": [
+        "pincode",
+        "deliver",
+        "pin"
+      ],
+      "keybert_keywords": [
+        "deliver pincode",
+        "pin code",
+        "pincode"
+      ],
+      "yake_keywords": [
+        "make pin code",
+        "make pin",
+        "deliver pincode"
+      ],
+      "sample_queries": [
+        "make pin code",
+        "please deliver pincode"
+      ],
+      "cluster_size": 2
+    },
+    "5": {
+      "cluster_id": 5,
+      "label": "Cluster 5: installment_monthly_equated",
+      "keywords": [
+        "installment",
+        "monthly",
+        "equated",
+        "equated monthly",
+        "monthly installment"
+      ],
+      "tfidf_keywords": [
+        "installment",
+        "monthly",
+        "equated"
+      ],
+      "keybert_keywords": [
+        "equated monthly",
+        "monthly installment",
+        "installment equated"
+      ],
+      "yake_keywords": [
+        "equated monthly installment",
+        "monthly installment option",
+        "monthly installment equated"
+      ],
+      "sample_queries": [
+        "guy provide equated monthly installment option",
+        "zero percent equated monthly installment option",
+        "equated monthly installment"
+      ],
+      "cluster_size": 8
+    },
+    "6": {
+      "cluster_id": 6,
+      "label": "Cluster 6: option_cash_availble",
+      "keywords": [
+        "option",
+        "cash",
+        "availble",
+        "cash option",
+        "available cash"
+      ],
+      "tfidf_keywords": [
+        "option",
+        "cash",
+        "availble"
+      ],
+      "keybert_keywords": [
+        "cash option",
+        "available cash",
+        "availble cash"
+      ],
+      "yake_keywords": [
+        "option availble cash",
+        "availble cash option",
+        "cash option availble"
+      ],
+      "sample_queries": [
+        "cash option availble",
+        "cash option available",
+        "get cash option"
+      ],
+      "cluster_size": 3
+    },
+    "7": {
+      "cluster_id": 7,
+      "label": "Cluster 7: want_size_change",
+      "keywords": [
+        "want",
+        "size",
+        "change",
+        "change size",
+        "want change"
+      ],
+      "tfidf_keywords": [
+        "want",
+        "size",
+        "change"
+      ],
+      "keybert_keywords": [
+        "change size",
+        "size",
+        "want change"
+      ],
+      "yake_keywords": [
+        "change size",
+        "size",
+        "change"
+      ],
+      "sample_queries": [
+        "want change size"
+      ],
+      "cluster_size": 1
+    }
+  },
+  "spectral": {
+    "0": {
+      "cluster_id": 0,
+      "label": "Cluster 0: period_warranty_long",
+      "keywords": [
+        "period",
+        "warranty",
+        "long",
+        "warranty period",
+        "know warranty"
+      ],
+      "tfidf_keywords": [
+        "period",
+        "warranty",
+        "long"
+      ],
+      "keybert_keywords": [
+        "warranty period",
+        "know warranty",
+        "share warranty"
+      ],
+      "yake_keywords": [
+        "cover included warranty",
+        "warranty period detail",
+        "period cover included"
+      ],
+      "sample_queries": [
+        "warranty period period",
+        "cover included warranty period",
+        "long warranty period"
+      ],
+      "cluster_size": 6
+    },
+    "1": {
+      "cluster_id": 1,
+      "label": "Cluster 1: installment_monthly_equated",
+      "keywords": [
+        "installment",
+        "monthly",
+        "equated",
+        "equated monthly",
+        "monthly installment"
+      ],
+      "tfidf_keywords": [
+        "installment",
+        "monthly",
+        "equated"
+      ],
+      "keybert_keywords": [
+        "equated monthly",
+        "monthly installment",
+        "installment equated"
+      ],
+      "yake_keywords": [
+        "equated monthly installment",
+        "monthly installment option",
+        "monthly installment equated"
+      ],
+      "sample_queries": [
+        "guy provide equated monthly installment option",
+        "zero percent equated monthly installment option",
+        "equated monthly installment"
+      ],
+      "cluster_size": 8
+    },
+    "2": {
+      "cluster_id": 2,
+      "label": "Cluster 2: foam_tell_ergonomic",
+      "keywords": [
+        "foam",
+        "tell",
+        "ergonomic",
+        "foam ergonomic",
+        "foam orthopedic"
+      ],
+      "tfidf_keywords": [
+        "foam",
+        "tell",
+        "ergonomic"
+      ],
+      "keybert_keywords": [
+        "foam ergonomic",
+        "foam orthopedic",
+        "feature foam"
+      ],
+      "yake_keywords": [
+        "key feature foam",
+        "orthopedic key feature",
+        "visit foam showroom"
+      ],
+      "sample_queries": [
+        "key feature foam orthopedic",
+        "tell foam orthopedic",
+        "key feature foam ergonomic"
+      ],
+      "cluster_size": 5
+    },
+    "3": {
+      "cluster_id": 3,
+      "label": "Cluster 3: pincode_deliver_pin",
+      "keywords": [
+        "pincode",
+        "deliver",
+        "pin",
+        "deliver pincode",
+        "pin code"
+      ],
+      "tfidf_keywords": [
+        "pincode",
+        "deliver",
+        "pin"
+      ],
+      "keybert_keywords": [
+        "deliver pincode",
+        "pin code",
+        "pincode"
+      ],
+      "yake_keywords": [
+        "make pin code",
+        "make pin",
+        "deliver pincode"
+      ],
+      "sample_queries": [
+        "make pin code",
+        "please deliver pincode"
+      ],
+      "cluster_size": 2
+    },
+    "4": {
+      "cluster_id": 4,
+      "label": "Cluster 4: trial_night_period",
+      "keywords": [
+        "trial",
+        "night",
+        "period",
+        "100 night",
+        "free night"
+      ],
+      "tfidf_keywords": [
+        "trial",
+        "night",
+        "period"
+      ],
+      "keybert_keywords": [
+        "100 night",
+        "free night",
+        "trial period"
+      ],
+      "yake_keywords": [
+        "night trial period",
+        "trial period work",
+        "period version give"
+      ],
+      "sample_queries": [
+        "100 night trial period work",
+        "100 night trial period",
+        "get free trial period"
+      ],
+      "cluster_size": 6
+    },
+    "5": {
+      "cluster_id": 5,
+      "label": "Cluster 5: want_size_change",
+      "keywords": [
+        "want",
+        "size",
+        "change",
+        "change size",
+        "want change"
+      ],
+      "tfidf_keywords": [
+        "want",
+        "size",
+        "change"
+      ],
+      "keybert_keywords": [
+        "change size",
+        "size",
+        "want change"
+      ],
+      "yake_keywords": [
+        "change size",
+        "size",
+        "change"
+      ],
+      "sample_queries": [
+        "want change size"
+      ],
+      "cluster_size": 1
+    },
+    "6": {
+      "cluster_id": 6,
+      "label": "Cluster 6: city_retailer_mumbai",
+      "keywords": [
+        "city",
+        "retailer",
+        "mumbai",
+        "retailer pune",
+        "distributor mumbai"
+      ],
+      "tfidf_keywords": [
+        "city",
+        "retailer",
+        "mumbai"
+      ],
+      "keybert_keywords": [
+        "retailer pune",
+        "distributor mumbai",
+        "nearby store"
+      ],
+      "yake_keywords": [
+        "showroom delhi state",
+        "delhi state distributor",
+        "state distributor mumbai"
+      ],
+      "sample_queries": [
+        "showroom delhi state",
+        "distributor mumbai city",
+        "retailer pune city"
+      ],
+      "cluster_size": 5
+    },
+    "7": {
+      "cluster_id": 7,
+      "label": "Cluster 7: option_cash_availble",
+      "keywords": [
+        "option",
+        "cash",
+        "availble",
+        "cash option",
+        "available cash"
+      ],
+      "tfidf_keywords": [
+        "option",
+        "cash",
+        "availble"
+      ],
+      "keybert_keywords": [
+        "cash option",
+        "available cash",
+        "availble cash"
+      ],
+      "yake_keywords": [
+        "option availble cash",
+        "availble cash option",
+        "cash option availble"
+      ],
+      "sample_queries": [
+        "cash option availble",
+        "cash option available",
+        "get cash option"
+      ],
+      "cluster_size": 3
+    }
+  }
+}
